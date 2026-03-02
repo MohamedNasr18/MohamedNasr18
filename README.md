@@ -69,8 +69,6 @@
 ---
 
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MohamedNasr18&color=blue&style=flat-square" alt="Profile Views"/>
 </p>

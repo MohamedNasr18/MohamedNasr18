@@ -11,4 +11,4 @@ Testify — Exam platform for educators and students with progress tracking and 
 📫 Connect with me
 
 Email: mohammednasr.me@gmail.com
-LinkedIn: Mohamed Nasr
+LinkedIn: https://www.linkedin.com/in/monasr12/

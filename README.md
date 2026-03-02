@@ -47,21 +47,21 @@
 
 ## 🚀 Projects
 
-### 🏥 [Care Clinics](https://github.com/Monasr)
+### 🏥 [Care Clinics](https://github.com/MoSalem149/care-clinics)
 > Full-stack clinic management app with real-time appointment booking, automated email notifications, and role-based authentication for patients, doctors, and admins.
 
 `React.js` `Node.js` `Express` `MongoDB`
 
 ---
 
-### 🎬 [Movie Platform](https://github.com/Monasr)
+### 🎬 [Movie Platform](https://github.com/MohamedNasr18/Movie-Platform)
 > A movie browsing platform where users can discover movies and series, manage a personal favorites list, with a full admin dashboard for content control.
 
 `React.js` `Node.js` `Express` `MongoDB` `TailwindCSS`
 
 ---
 
-### 📝 [Testify](https://github.com/Monasr)
+### 📝 [Testify](https://github.com/MohamedNasr18/Testify)
 > An exam platform for educators and students featuring exam management, question flagging, progress tracking, and detailed performance analytics.
 
 `Node.js` `Express` `MongoDB`

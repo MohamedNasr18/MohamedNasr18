@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Sc. in Information Systems — Mansoura University (2020–2024)
+- 🎓 B.Sc. in computer science — Mansoura University (2020–2024)
 - 💼 Full-Stack Developer specializing in building scalable web applications
 - 🌱 Currently deepening my expertise in backend architecture and system design
 - 🤝 Open to collaboration on interesting projects

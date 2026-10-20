@@ -51,7 +51,7 @@
 ### 🏥 [Care Clinics](https://github.com/MoSalem149/care-clinics)
 > Full-stack clinic management app with real-time appointment booking, automated email notifications, and role-based authentication for patients, doctors, and admins.
 
-`React.js` `Node.js` `Express` `MongoDB`
+`Angular` `Node.js` `Express` `MongoDB`
 
 ---
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohamed Nasr 👋</h1>
-<h3 align="center">Full-Stack Developer | React.js · Node.js · MongoDB</h3>
+<h3 align="center">Full-Stack Developer | React.js · Angular · Node.js · MongoDB</h3>
 
 <br/>
 
